@@ -7,7 +7,7 @@
 # Created by: @SQLadmin
 # Blog URL: 
 
-# Create IAM user with keys and assign Redshift full access 
+# Create IAM user with keys assign Redshift nessessary access 
 # and SES send raw email access
 
 # READ CAREFULLY
