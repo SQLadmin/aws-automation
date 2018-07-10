@@ -5,7 +5,7 @@
 
 # Version: 1.0
 # Created by: @SQLadmin
-# Blog URL: 
+# Blog URL: https://www.sqlgossip.com/automate-aws-redshift-snapshot-and-restore/
 
 # Create IAM user with keys assign Redshift nessessary access 
 # and SES send raw email access
