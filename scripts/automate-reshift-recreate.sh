@@ -13,6 +13,7 @@
 # READ CAREFULLY
 # --------------
 # Change the below things:
+# AWS CLI must be installed
 # YOUR_ACCESS_KEY
 # YOUR_SECRET_KEY
 # prod-cluster -> Prod/Main cluster name
